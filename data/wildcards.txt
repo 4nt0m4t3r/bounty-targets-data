@@ -11,6 +11,7 @@ portalapi.*.afterpay.com
 *.tube8.com
 *.adultforce.com
 *.trafficjunky.com
+*.aaaaaaa.com
 *.backblazeb2.com
 *.bigcommerce.com
 *.bigcommerce.net
