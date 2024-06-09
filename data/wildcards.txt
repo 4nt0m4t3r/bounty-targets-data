@@ -6,6 +6,7 @@ portalapi.*.afterpay.com
 *.app.asana.com
 *.asana.biz
 *.asana.plus
+*.tttttttttttt.com
 *.atlastunnel.com
 *.bbbbbbbb.com
 *.cic-bug-bounty.auth0app.com
