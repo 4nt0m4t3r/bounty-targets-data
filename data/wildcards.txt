@@ -6,6 +6,7 @@ portalapi.*.afterpay.com
 *.app.asana.com
 *.asana.biz
 *.xxxx.com
+*.yyyyyy.com
 *.asana.plus
 *.tttttttttttt.com
 *.oooooo.com
