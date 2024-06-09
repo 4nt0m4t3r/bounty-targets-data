@@ -48,6 +48,7 @@ portalapi.*.afterpay.com
 *.projects.epam.com
 *.etsy.com
 *.expressvpn.com
+*.anthonyjamous.com
 *.xvservice.net
 *.xvtest.net
 *.certinia.com
